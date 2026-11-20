@@ -1,0 +1,5 @@
+.venv/
+README_old/
+*.zip
+__pycache__/
+*.pyc
